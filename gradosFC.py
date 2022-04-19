@@ -1,8 +1,8 @@
-print("Hello world")
+from unittest import result
 
-a= 2+12
-print(f"Esta es la respuesta de {a}")
 
-for x in range(1,10):
-    print(x)
-    
+def sumatoria(a,b):
+    result=a+b
+    print(result)
+    return result
+sumatoria(21,34)

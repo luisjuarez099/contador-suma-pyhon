@@ -21,9 +21,9 @@ def promedio():
         print(dato)
         i+=1
     print(f"El resultado de sus numeros agregados es de {dato}")
-        
-
 if __name__== '__main__':
     # sumatoria(a,b)
     # name
     promedio()
+
+    

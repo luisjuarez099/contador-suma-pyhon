@@ -1,3 +1,5 @@
+def saludo():
+    print("Subi mi primer archivo python desde la terminal a GitHub")
 
 def promedio():
     print("Conoceremos el promedio")
@@ -10,5 +12,6 @@ def promedio():
     print(f"El resultado de sus numeros agregados es de {dato}")
 if __name__== '__main__':
     promedio()
+    saludo()
 
     
